@@ -14,4 +14,4 @@ function tabelaDeMultiplicação (num){
     }
     return tabela
 }
-//console.table(tabelaDeMultiplicação(16))
+console.table(tabelaDeMultiplicação(16))
